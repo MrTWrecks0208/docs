@@ -3,8 +3,8 @@
 <details closed>
   
 <summary>Scrubadub</summary>
-
- - [End User Documentation](https://github.com/MrTWrecks0208/docs/blob/main/Scrubadub/End-User-Documentation.md)
+<br/>
+<a href="https://github.com/MrTWrecks0208/docs/blob/main/Scrubadub/End-User-Documentation.md">End User Documentation</a>
 
  - [Privacy Policy](https://github.com/MrTWrecks0208/docs/blob/main/Scrubadub/privacy-policy.md)
 
